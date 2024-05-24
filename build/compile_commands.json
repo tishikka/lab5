@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/proga/lab5/lab5.3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c C:\\proga\\lab5\\lab5.3\\main.cpp",
+  "file": "C:\\proga\\lab5\\lab5.3\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/proga/lab5/lab5.3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\stack.cpp.obj -c C:\\proga\\lab5\\lab5.3\\stack.cpp",
+  "file": "C:\\proga\\lab5\\lab5.3\\stack.cpp",
+  "output": "CMakeFiles\\multifile.dir\\stack.cpp.obj"
+}
+]
