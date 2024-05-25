@@ -15,4 +15,7 @@ int main() {
     catch (double x){
         std::cout << "Val is double, not int.";
     }
+    catch (...) {
+        
+    }
 }

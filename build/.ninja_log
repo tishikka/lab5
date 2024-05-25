@@ -1,10 +1,4 @@
 # ninja log v5
-4	1466	7382652037298898	CMakeFiles/multifile.dir/main.cpp.obj	c80e526e1608e417
-23	1476	7382652037314699	CMakeFiles/multifile.dir/stack.cpp.obj	e4a2a67789d80d88
-1477	1819	7382652040785169	multifile.exe	91ff0d5f20aeb87
-12	1055	7382654368748529	CMakeFiles/multifile.dir/stack.cpp.obj	e4a2a67789d80d88
-1055	1559	7382654373739011	multifile.exe	91ff0d5f20aeb87
-13	1072	7382659604069983	CMakeFiles/multifile.dir/stack.cpp.obj	e4a2a67789d80d88
-1073	1573	7382659608950487	multifile.exe	91ff0d5f20aeb87
 12	1255	7382661296460590	CMakeFiles/multifile.dir/main.cpp.obj	c80e526e1608e417
+13	1072	7382659604069983	CMakeFiles/multifile.dir/stack.cpp.obj	e4a2a67789d80d88
 1256	1638	7382661300201683	multifile.exe	91ff0d5f20aeb87
